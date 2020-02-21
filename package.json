@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-starter",
+  "name": "MobiquityRules-starter",
   "version": "1.0.2",
   "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
@@ -36,6 +36,6 @@
     "node": ">=8"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@dalenguyen"
+    "registry": "https://npm.pkg.github.com/@iafanasovmob"
   }
 }
